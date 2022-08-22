@@ -1,0 +1,14 @@
+*.bak
+*.bak.*
+*.ckpt
+*.old
+*.pyc
+.DS_Store
+.ipynb_checkpoints
+checkpoint
+MNIST
+.idea
+*.ini
+celeba
+img_align_celeba
+montage
