@@ -1,4 +1,4 @@
-<div align=center> <h1> :art: Study-GAN :art: </h1> </div>
+<div align=center> <h1> 🎨 Study-GAN 🎨 </h1> </div>
 
 > Generative Adversarial Networks
 
